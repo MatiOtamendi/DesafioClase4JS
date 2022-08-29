@@ -1,3 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
 .body{
     background-color: rgb(6, 75, 75);
+    background-image: url(../coder4.jpg);
+    background-size: cover;
+}
+
+.h1{
+    font-size: 25px;
+    color: yellow;
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 20px;
+    font-family: sans-serif;
 }
